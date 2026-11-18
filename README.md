@@ -32,12 +32,19 @@ Mi enfoque combina el rigor metodológico de **TOGAF** y **DAMA-DMBOK** con una 
 
 ---
 
-## Certificaciones y Formación
+## Educación Superior
+* **Programa Profesional en Inteligencia Artificial y Data Science.**
+* **Maestría en Tecnologías de la Información y la Comunicación.**
+* **Especialización en Inteligencia de Negocios.**
+* **Ingeniería de Sistemas.**
 
-* **DAMA-CDMP®** — Certified Data Management Professional
-* **TOGAF® Enterprise Architecture** — OGEA-103
-* **Microsoft Certified: Azure Data Engineer Associate** & **Microsoft Certified Trainer (MCT)**
-* **Formación Académica:** Ingeniero de Sistemas · Especialización · Maestría
+## Certificaciones
+* **DAMA - CDMP Certification - Associate.**
+* **TOGAF® Enterprise Architecture Practitioner.**
+* **Stratio Generative AI Data Fabric Basics Certification.**
+* **Microsoft Certified: Azure Data Engineer Associate.**
+* **Microsoft Certified Dynamics Professional: Applications for Microsoft Dynamics CRM.**
+* **Microsoft Certified Trainer (MCT).**
 
 ---
 
