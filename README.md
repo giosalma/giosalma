@@ -1,5 +1,5 @@
 # Said Giovanny Salazar Marín
-### Arquitecto Empresarial de Información | Líder de Gobierno de Datos | Analítica & IA Corporativa
+### Arquitecto Empresarial de Información | Gobierno de Datos | Analítica & IA Corporativa
 
 **DAMA-CDMP®** · **TOGAF® Enterprise Architecture** · **Microsoft Azure Data Engineer** · **MCT**  
 📍 Bogotá, Colombia (Disponibilidad Remota LATAM / Global) · 🔗 [LinkedIn](https://www.linkedin.com/in/saidsalazar) · ✉️ giosalma@hotmail.com
@@ -48,5 +48,3 @@ Mi enfoque combina el rigor metodológico de **TOGAF** y **DAMA-DMBOK** con una 
 * **Reducción significativa de incidentes de interoperabilidad** al estandarizar diccionarios, arquitecturas de integración y controles de calidad transversales.
 
 ---
-
-*¿Buscas estructurar o madurar la estrategia de Gobierno de Datos y Arquitectura de Información en tu organización? Conversemos vía [LinkedIn](https://www.linkedin.com/in/saidsalazar).*
